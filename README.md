@@ -31,3 +31,4 @@ c2xterm.hex2xterm('#0DADD6'); // closest color is #00AFD7 so the result is 38
 
 ### Color table ###
 ![colors](http://upload.wikimedia.org/wikipedia/en/1/15/Xterm_256color_chart.svg)
+_stolen from Wikimedia_
