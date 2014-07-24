@@ -1,6 +1,6 @@
 {
   "name": "color2xterm",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Michał Budzyński <michal@virtualdesign.pl>",
   "repository": "git@github.com:michalbe/rgb2xterm.git",
   "devDependencies": {
