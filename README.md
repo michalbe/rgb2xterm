@@ -13,7 +13,7 @@ convert given rgb color (passed tot he method as 3 separate parameters) to the x
 
 ### How to use? ###
 Install simply with:
-```bash```
+```bash
 npm install color2xterm
 ```
 
